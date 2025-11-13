@@ -1,5 +1,5 @@
 {
-  "name": "@iconscout/react-unicons",
+  "name": "@adelo/react-unicons",
   "version": "2.2.5",
   "description": "4,500+ vector icons as easy to use React Components",
   "main": "./lib/cjs/index.js",
