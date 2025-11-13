@@ -7,6 +7,7 @@
   "sideEffects": false,
   "types": "index.d.ts",
   "scripts": {
+    "generate-types": "node scripts/generate-dts.js",
     "generate": "node ./build/generate.js && webpack"
   },
   "repository": {
